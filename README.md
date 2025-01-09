@@ -2,7 +2,7 @@
 
 
 <p align="center"> 
-<img src="./Images/Bottom_Thermo.jpg" width="600" height="400"/>
+<img src="./images/Top.jpg" width="400" height="400"/>
 </p>
 
  
@@ -26,8 +26,8 @@
 7. **Display+Touchscreeen**: Monitor live the current status on the Seeed Display
 
 8. **RTC**: RealTimeClock from the Seeed Display
-<p align="center">
-<img src="./Images/TOP_Display.jpg" width="600" height="444"/>
+<p align="center"> 
+<img src="./images/Bottom.jpg" width="400" height="400"/>
 </p>
 
 9. **RGB LED**: Status LED
@@ -39,13 +39,14 @@
 ## Specifications
 
 
-<p align="center">
-<img src="./Images/TOP.jpg" width="600" height="444"/>
+<p align="center"> 
+<img src="./images/Top2.jpg" width="400" height="400"/>
 </p>
 
-<p align="center">
-<img src="./Images/Bottom.jpg" width="600" height="444"/>
+<p align="center"> 
+<img src="./images/Bottom2.jpg" width="400" height="400"/>
 </p>
+
 
 
 
