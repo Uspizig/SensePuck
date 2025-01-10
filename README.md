@@ -48,7 +48,14 @@
 </p>
 
 
+Needed Libaries:
 
+https://github.com/schreibfaul1/ESP32-audioI2S
+https://github.com/pololu/lis3mdl-arduino
+https://github.com/pololu/lsm6-arduino
+https://github.com/Seeed-Projects/SeeedStudio_TFT_eSPI
+https://github.com/Seeed-Projects/SeeedStudio_lvgl
+https://github.com/Seeed-Studio/Seeed_Arduino_RoundDisplay
 
 ### Key Features:
 
