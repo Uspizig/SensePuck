@@ -2,7 +2,7 @@
 
 
 <p align="center"> 
-<img src="./images/IMG_20250218_081835.jpg" width="400" height="300"/>
+<img src="./images/IMG_20250218_081835.jpg">
 </p>
 
 
@@ -24,7 +24,7 @@
 
 2. **I2C Connector for Sensor**: Connect your favourite I2C Sensor board with the embedded 2.54mm connector
 
-3. **Wireless Control**: Untehther your development process with the wireless capabilities. With WiFi, Lora and BLE, this tool allows remote control and data logging. Users can adjust settings and monitor data from a distance, offering a more flexible development experience.
+3. **Wireless Control**: Untehther your development process with the wireless capabilities. With WiFi and BLE, this tool allows remote control and data logging. Users can adjust settings and monitor data from a distance, offering a more flexible development experience.
 
 4. **LIS3M Magentometer**: Check your Heading
 
@@ -81,7 +81,7 @@ AI Detection of objects and determine if the device shall sent the data via LoRa
 
 ## Testing for Performance
 
-At the heart of SenseLoRaCam's design is a commitment to reliability and performance. To ensure that SenseLoRaCam stands up to real-world demands, we subjected it to testing under use conditions.
+At the heart of SensePuck's design is a commitment to reliability and performance. To ensure that SensePuck stands up to real-world demands, we subjected it to testing under use conditions.
 
 
 ## License
