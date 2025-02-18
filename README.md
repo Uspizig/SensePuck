@@ -6,9 +6,6 @@
 </p>
 
 
-<p align="center"> 
-<img src="./images/IMG_20250218_081912.jpg" width="400" height="300"/>
-</p>
 
 <p align="center"> 
 <img src="./images/Top.jpg" width="400" height="400"/>
@@ -49,6 +46,9 @@
     
 ## Specifications
 
+<p align="center"> 
+<img src="./images/IMG_20250218_081912.jpg">
+</p>
 
 <p align="center"> 
 <img src="./images/Top2.jpg" width="400" height="400"/>
